@@ -13,7 +13,7 @@ O projeto consiste em uma maquete de uma casa que vai ser o maximo possivel auto
 - 1 Buzzer
 - 1 Intel Galileo 
 - 1 Protoboard
-- -- Cabos Groove
+- -- Cabos Grove
 
 # Descrição de etapas
 
